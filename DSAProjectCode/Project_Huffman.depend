@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1704039756 source:d:\dsa project\project_huffman\main.cpp
+	<iostream>
+	"Huffman_Coding.h"
+
+1703961140 d:\dsa project\project_huffman\include\huffman_coding.h
+	<iostream>
+	<fstream>
+	<queue>
+	<vector>
+	<cstring>
+
+1703963553 source:d:\dsa project\project_huffman\src\huffman_coding.cpp
+	"Huffman_Coding.h"
+
+1704040048 source:d:\dsa project\dsaprojectgroup11\src\huffman_coding.cpp
+	"Huffman_Coding.h"
+
+1704040048 d:\dsa project\dsaprojectgroup11\include\huffman_coding.h
+	<iostream>
+	<fstream>
+	<queue>
+	<vector>
+	<cstring>
+
+1704040107 source:d:\dsa project\dsaprojectgroup11\main.cpp
+	<iostream>
+	"Huffman_Coding.h"
+
